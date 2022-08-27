@@ -1,0 +1,15 @@
+C:\Users\batuh\Desktop\EFCoreCodeFirstExample\HotelCodeFirst.DAL\bin\Debug\net6.0\HotelCodeFirst.DAL.deps.json
+C:\Users\batuh\Desktop\EFCoreCodeFirstExample\HotelCodeFirst.DAL\bin\Debug\net6.0\HotelCodeFirst.DAL.dll
+C:\Users\batuh\Desktop\EFCoreCodeFirstExample\HotelCodeFirst.DAL\bin\Debug\net6.0\HotelCodeFirst.DAL.pdb
+C:\Users\batuh\Desktop\EFCoreCodeFirstExample\HotelCodeFirst.DAL\bin\Debug\net6.0\Database.Core.dll
+C:\Users\batuh\Desktop\EFCoreCodeFirstExample\HotelCodeFirst.DAL\bin\Debug\net6.0\Database.Core.pdb
+C:\Users\batuh\Desktop\EFCoreCodeFirstExample\HotelCodeFirst.DAL\obj\Debug\net6.0\HotelCodeFirst.DAL.csproj.AssemblyReference.cache
+C:\Users\batuh\Desktop\EFCoreCodeFirstExample\HotelCodeFirst.DAL\obj\Debug\net6.0\HotelCodeFirst.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batuh\Desktop\EFCoreCodeFirstExample\HotelCodeFirst.DAL\obj\Debug\net6.0\HotelCodeFirst.DAL.AssemblyInfoInputs.cache
+C:\Users\batuh\Desktop\EFCoreCodeFirstExample\HotelCodeFirst.DAL\obj\Debug\net6.0\HotelCodeFirst.DAL.AssemblyInfo.cs
+C:\Users\batuh\Desktop\EFCoreCodeFirstExample\HotelCodeFirst.DAL\obj\Debug\net6.0\HotelCodeFirst.DAL.csproj.CoreCompileInputs.cache
+C:\Users\batuh\Desktop\EFCoreCodeFirstExample\HotelCodeFirst.DAL\obj\Debug\net6.0\HotelCodeFirst.DAL.csproj.CopyComplete
+C:\Users\batuh\Desktop\EFCoreCodeFirstExample\HotelCodeFirst.DAL\obj\Debug\net6.0\HotelCodeFirst.DAL.dll
+C:\Users\batuh\Desktop\EFCoreCodeFirstExample\HotelCodeFirst.DAL\obj\Debug\net6.0\refint\HotelCodeFirst.DAL.dll
+C:\Users\batuh\Desktop\EFCoreCodeFirstExample\HotelCodeFirst.DAL\obj\Debug\net6.0\HotelCodeFirst.DAL.pdb
+C:\Users\batuh\Desktop\EFCoreCodeFirstExample\HotelCodeFirst.DAL\obj\Debug\net6.0\ref\HotelCodeFirst.DAL.dll

@@ -1,0 +1,14 @@
+C:\Users\batuh\Desktop\EFCoreCodeFirstExample\Database.Core\bin\Debug\net6.0\Database.Core.deps.json
+C:\Users\batuh\Desktop\EFCoreCodeFirstExample\Database.Core\bin\Debug\net6.0\Database.Core.runtimeconfig.json
+C:\Users\batuh\Desktop\EFCoreCodeFirstExample\Database.Core\bin\Debug\net6.0\Database.Core.dll
+C:\Users\batuh\Desktop\EFCoreCodeFirstExample\Database.Core\bin\Debug\net6.0\Database.Core.pdb
+C:\Users\batuh\Desktop\EFCoreCodeFirstExample\Database.Core\obj\Debug\net6.0\Database.Core.csproj.AssemblyReference.cache
+C:\Users\batuh\Desktop\EFCoreCodeFirstExample\Database.Core\obj\Debug\net6.0\Database.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batuh\Desktop\EFCoreCodeFirstExample\Database.Core\obj\Debug\net6.0\Database.Core.AssemblyInfoInputs.cache
+C:\Users\batuh\Desktop\EFCoreCodeFirstExample\Database.Core\obj\Debug\net6.0\Database.Core.AssemblyInfo.cs
+C:\Users\batuh\Desktop\EFCoreCodeFirstExample\Database.Core\obj\Debug\net6.0\Database.Core.csproj.CoreCompileInputs.cache
+C:\Users\batuh\Desktop\EFCoreCodeFirstExample\Database.Core\obj\Debug\net6.0\Database.Core.dll
+C:\Users\batuh\Desktop\EFCoreCodeFirstExample\Database.Core\obj\Debug\net6.0\refint\Database.Core.dll
+C:\Users\batuh\Desktop\EFCoreCodeFirstExample\Database.Core\obj\Debug\net6.0\Database.Core.pdb
+C:\Users\batuh\Desktop\EFCoreCodeFirstExample\Database.Core\obj\Debug\net6.0\Database.Core.genruntimeconfig.cache
+C:\Users\batuh\Desktop\EFCoreCodeFirstExample\Database.Core\obj\Debug\net6.0\ref\Database.Core.dll
